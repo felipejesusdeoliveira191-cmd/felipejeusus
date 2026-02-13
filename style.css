@@ -42,7 +42,7 @@ body {
 section {
   position: relative;
   z-index: 2;
-  margin: 50px 60px; 
+  margin: 30px 40px; 
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -69,4 +69,5 @@ footer {
   font-size: 20px;
   font-weight: bold;
   text-shadow: 2px 2px 4px #fff200;
+
 }
